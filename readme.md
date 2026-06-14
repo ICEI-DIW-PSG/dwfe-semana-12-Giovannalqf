@@ -5,11 +5,13 @@ Nesta atividade, vamos desenvolver um sistema simples de cadastro de funcionári
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Giovanna Luisa Quintão de Freitas
+- Matricula: 923826
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - CARDS DE PELO MENOS 5 FUNCIONÁRIOS CADASTRADOS - AQUI >>
+<< <img width="1878" height="901" alt="screenshot-1781472638018" src="https://github.com/user-attachments/assets/b37eb112-0117-4837-968d-c85200ea628d" />
+ >>
 
-<<  COLOQUE A IMAGEM - LOCALSTORAGE NO NAVEGADOR - AQUI >>
+<< <img width="960" height="509" alt="Captura de tela 2026-06-14 185203" src="https://github.com/user-attachments/assets/22c65489-86ec-40fd-b10b-f9db86546c01" />
+ >>
